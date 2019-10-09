@@ -35,36 +35,29 @@ Saarland
 
 Sachsen
 
-.. sidebar:: Sidebar Title
-    :subtitle: Optional Sidebar Subtitle
 
-    Subsequent indented lines comprise
-    the body of the sidebar, and are
-    interpreted as body elements.
 
 
 Sachsen-Anhalt
 
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Landeswappen_Schleswig-Holstein.png/32px-Landeswappen_Schleswig-Holstein.png
+Schleswig-Holstein
+----------------------
+.. sidebar:: Schleswig Holstein
+    .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Landeswappen_Schleswig-Holstein.png/32px-Landeswappen_Schleswig-Holstein.png
    :scale: 50 %
    :alt: Coat of arms of Thuringia
    :align: left
-   :target: https://commons.wikimedia.org/wiki/File:Landeswappen_Schleswig-Holstein.png
+   :target: https://commons.wikimedia.org/wiki/File:Landeswappen_Schleswig-Holstein.png.. sidebar:: Schleswig Holstein
 
-Schleswig-Holstein
-----------------------
 
 Lübeck
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Lübecker Loop-Up zuletzt im August 2019.
+Nächstes reguläres Event wahrscheinlich im Februar 2020
 
-.. topic:: Lübeck
-
-    Lübecker Loop-Up zuletzt im August 2019.
-    Nächstes reguläres Event wahrscheinlich im Februar 2020
-
-.. topic:: Flensburg
+Flensburg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    LooperInFlensburg Treffen zuletzt im Januar 2019
+LooperInFlensburg Treffen zuletzt im Januar 2019
 
 
 
