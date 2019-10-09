@@ -46,9 +46,13 @@ Schleswig-Holstein
 ----------------------
 
 .. topic:: Flensburg
+Flensburg
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 LooperInFlensburg Treffen zuletzt im Januar 2019
 
 .. topic:: Lübeck
+Lübeck
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Lübecker Loop-Up zuletzt im August 2019.
 Nächstes reguläres Event wahrscheinlich im Februar 2020
 
@@ -59,7 +63,9 @@ Nächstes reguläres Event wahrscheinlich im Februar 2020
    :target: https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Thuringia.svg
 Thüringen
 ----------------
+
 .. topic:: Erfurt
+
 am Samstag, 02.11.2019, um 12 Uhr
 im Goldenen Schwan, Michaelisstraße 9 in Erfurt (Reservierung für 15 Personen)
 https://xoyondo.com/dp/FNE6VPsu7Fd5jZl
