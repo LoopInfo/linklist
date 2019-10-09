@@ -35,6 +35,14 @@ Saarland
 
 Sachsen
 
+.. sidebar:: Sidebar Title
+    :subtitle: Optional Sidebar Subtitle
+
+    Subsequent indented lines comprise
+    the body of the sidebar, and are
+    interpreted as body elements.
+
+
 Sachsen-Anhalt
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Landeswappen_Schleswig-Holstein.png/32px-Landeswappen_Schleswig-Holstein.png
@@ -46,10 +54,11 @@ Sachsen-Anhalt
 Schleswig-Holstein
 ----------------------
 
+Lübeck
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. topic:: Lübeck
-    Lübeck
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
     Lübecker Loop-Up zuletzt im August 2019.
     Nächstes reguläres Event wahrscheinlich im Februar 2020
 
