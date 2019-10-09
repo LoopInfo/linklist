@@ -65,6 +65,7 @@ LooperInFlensburg Treffen zuletzt im Januar 2019
    :alt: Coat of arms of Thuringia
    :align: left
    :target: https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Thuringia.svg
+
 Thüringen
 ----------------
 
@@ -74,6 +75,11 @@ am Samstag, 02.11.2019, um 12 Uhr
 im Goldenen Schwan, Michaelisstraße 9 in Erfurt (Reservierung für 15 Personen)
 https://xoyondo.com/dp/FNE6VPsu7Fd5jZl
 
+ein weiterer Ort
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+am Samstag, 02.11.2019, um 12 Uhr
+im Goldenen Schwan, Michaelisstraße 9 in Erfurt (Reservierung für 15 Personen)
+https://xoyondo.com/dp/FNE6VPsu7Fd5jZl
 
 Österreich
 =================
