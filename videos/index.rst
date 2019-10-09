@@ -8,10 +8,9 @@ Aktuell sind wir noch bei der Recherche.
 
 https://www.deutsche-diabetes-gesellschaft.de/mediathek
 
-Bitte suchen Sie hier nach 
-* Stichwort
-    Closed Loop
-* Veranstaltungen 
-    Alle
-* Format
-    Videos
+Hier gibt es ein sehr informatives deutsches Video von Katharina Braune.
+Bitte suchen Sie hier nach:
+
+* Stichwort         "Closed Loop"
+* Veranstaltungen   "Alle"
+* Format            "Videos"
