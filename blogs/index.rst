@@ -21,11 +21,11 @@ Blogs mit Beiträgen zum Closed Loop
     https://diabetes-leben.com/?s=loop
 
 
-* https://diabetes-blog-woche.de/
-    7 TAGE – 7 THEMEN – 1000 PERSPEKTIVEN
+* 7 TAGE – 7 THEMEN – 1000 PERSPEKTIVEN
     https://diabetes-blog-woche.de/?s=loop
 
 
 * mein-diabeted-bblog.com
     Ein blog von Ilka und Finn
+    
     http://www.mein-diabetes-blog.com/?s=loop
