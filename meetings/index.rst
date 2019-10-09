@@ -7,9 +7,7 @@ https://loopertreffen.androidaps.de
 Parallel dazu wird hier die Liste und ein Kalender gepflegt.
 
 .. raw:: html
-
-<iframe src="https://calendar.google.com/calendar/embed?src=hi9i57h9uoc036tismkn5dd1vc%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+   :file: calendar.html
 
 Deutschland
 =================
