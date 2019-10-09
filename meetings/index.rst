@@ -48,7 +48,7 @@ Schleswig-Holstein
    :scale: 50 %
    :alt: Coat of arms of Thuringia
    :align: left
-   :target: https://commons.wikimedia.org/wiki/File:Landeswappen_Schleswig-Holstein.png.. sidebar:: Schleswig Holstein
+   :target: https://commons.wikimedia.org/wiki/File:Landeswappen_Schleswig-Holstein.png
 
 
 Lübeck
