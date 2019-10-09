@@ -202,12 +202,12 @@ Schleswig-Holstein
 
 Lübeck
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Lübecker Loop-Up zuletzt im August 2019.
-Nächstes reguläres Event wahrscheinlich im Februar 2020
+    Lübecker Loop-Up zuletzt im August 2019.
+    Nächstes reguläres Event wahrscheinlich im Februar 2020
 
 Flensburg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-LooperInFlensburg Treffen zuletzt im Januar 2019
+    LooperInFlensburg Treffen zuletzt im Januar 2019
 
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coat_of_arms_of_Thuringia.svg/64px-Coat_of_arms_of_Thuringia.svg.png
