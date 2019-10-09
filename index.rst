@@ -1,5 +1,5 @@
 Herzlich willkommen zur Open Source Loop Linkliste
-==============================================
+******************************************************
 
 **Was ist ein Open Source Hybrid Closed Loop ( Closed Loop)**
 Der Closed Loop ist eine Kombination hochwertiger Bausteine zu einem individuellen System mit dem Ziel den Blutzucker durch geringere Schwankungen besser im Zielbereich zu halten, sowie Über- und Unterzucker zu vermeiden.

@@ -1,5 +1,5 @@
 Loopertreffen
-========================
+***************************
 
 Aktuell werden Loopertreffen auf folgender Seite veröffentlicht:
 https://loopertreffen.androidaps.de
@@ -37,15 +37,21 @@ Sachsen
 
 Sachsen-Anhalt
 
+.. image:: https://upload.wikimedia.org/wikipedia/commons/7/7d/Landeswappen_Schleswig-Holstein.png
+   :scale: 30 %
+   :alt: Coat of arms of Thuringia
+   :align: left
+   :target: https://commons.wikimedia.org/wiki/File:Landeswappen_Schleswig-Holstein.png
 Schleswig-Holstein
+----------------------
 
-Thüringen
-------------
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coat_of_arms_of_Thuringia.svg/64px-Coat_of_arms_of_Thuringia.svg.png
-   :scale: 50 %
+   :scale: 30 %
    :alt: Coat of arms of Thuringia
    :align: left
    :target: https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Thuringia.svg
+Thüringen
+----------------
    
 Österreich
 =================

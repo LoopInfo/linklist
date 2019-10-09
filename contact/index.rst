@@ -1,5 +1,5 @@
 Kontakt
-=================
+***************************
 
 mailto:loop.info@gmail.com
 
