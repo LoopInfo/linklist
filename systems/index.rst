@@ -1,13 +1,17 @@
 Loop Systeme
 ***************************
 
-**openAPS**
+openAPS
+-----------------------------
+
 https://openaps.readthedocs.io (en)
 
 Mit openAPS hat alles angefangen.
 
 
-**Android APS**
+Android APS
+-----------------------------
+
 https://androidaps.readthedocs.io (de, en,...)
 
 AndroidAPS hat derzeit die größte Anzahl an unterstützten Insulinpumpen.
@@ -19,5 +23,7 @@ AndroidAPS hat derzeit die größte Anzahl an unterstützten Insulinpumpen.
 Es verwendet den Algorithmus von openAPS.
 
 
-**iOS Loop**
+iOS Loop
+-----------------------------
+
 https://loopdocs.org (en)

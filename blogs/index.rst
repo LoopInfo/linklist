@@ -1,18 +1,21 @@
 
+Blogs
+=================
+
 Nicht alle Blogs haben mit dem Closed Loop zu tun.
 Einige haben kurze Berichte über die eigenen Erfahrungen damit.
 Andere gehen sehr ins Detail und vergleichen die Systeme.
 Wiederum andere beschäftigen sich mit dem Thema Sport und Diabetes.
 
 Schwerpunkt Closed Loop
-========================
+***************************
 
 * Artikelserie: Closed Loop von Martin
     http://zehn.be/
 
 
 Blogs mit Beiträgen zum Closed Loop
-========================================
+***************************
 
 * Staeffs (er-)Leben mit Diabetes
     https://diabetes-leben.com/?s=loop
