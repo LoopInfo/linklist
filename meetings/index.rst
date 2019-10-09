@@ -42,8 +42,6 @@ Sachsen-Anhalt
 
 Schleswig-Holstein
 ----------------------
-
-.. sidebar:: Schleswig Holstein
     .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Landeswappen_Schleswig-Holstein.png/32px-Landeswappen_Schleswig-Holstein.png
    :scale: 50 %
    :alt: Coat of arms of Thuringia
