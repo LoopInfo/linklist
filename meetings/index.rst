@@ -12,10 +12,10 @@ blau        einmalig
 hellgrün    regelmäßig
 dunkelgrün  regelmäßin, jedich einmalig abweichender Termin
 
-iCAL zum Hinzufügen in die eigene Kalender App
+Mit diesem Link kann der Google-Kalender in die eigene Kalender App eingebunden werden.
 Hier sollten auch die Farben sichtbar sein.
 
-https://calendar.google.com/calendar/ical/hi9i57h9uoc036tismkn5dd1vc%40group.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar?cid=aGk5aTU3aDl1b2MwMzZ0aXNta241ZGQxdmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 
 
 .. raw:: html
