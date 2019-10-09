@@ -221,9 +221,10 @@ Thüringen
 
 Erfurt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-am Samstag, 02.11.2019, um 12 Uhr
-im Goldenen Schwan, Michaelisstraße 9 in Erfurt (Reservierung für 15 Personen)
-https://xoyondo.com/dp/FNE6VPsu7Fd5jZl
+.. topic:: Erfurt
+    am Samstag, 02.11.2019, um 12 Uhr
+    im Goldenen Schwan, Michaelisstraße 9 in Erfurt (Reservierung für 15 Personen)
+    https://xoyondo.com/dp/FNE6VPsu7Fd5jZl
 
 
 Österreich
