@@ -12,6 +12,9 @@ blau        einmalig
 hellgrün    regelmäßig
 dunkelgrün  regelmäßin, jedich einmalig abweichender Termin
 
+Die Farben sind allerdings nur über den separaten Aufruf sichbar:
+https://calendar.google.com/calendar/embed?src=hi9i57h9uoc036tismkn5dd1vc%40group.calendar.google.com&ctz=Europe%2FBerlin
+
 .. raw:: html
    :file: calendar.html
 
