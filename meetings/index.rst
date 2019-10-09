@@ -47,14 +47,16 @@ Schleswig-Holstein
 ----------------------
 
 
-.. topic:: Flensburg
-**Flensburg**
-LooperInFlensburg Treffen zuletzt im Januar 2019
-
 Lübeck
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Lübecker Loop-Up zuletzt im August 2019.
 Nächstes reguläres Event wahrscheinlich im Februar 2020
+
+Flensburg
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+LooperInFlensburg Treffen zuletzt im Januar 2019
+
+
 
 Thüringen
 ----------------
@@ -65,7 +67,8 @@ Thüringen
    :target: https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Thuringia.svg
 
 
-.. topic:: Erfurt
+
+
 Erfurt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 am Samstag, 02.11.2019, um 12 Uhr
