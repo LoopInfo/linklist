@@ -33,7 +33,7 @@ https://loopdocs.org (en)
 
 Aktuell unterstützte Pumpen:
 
-* alte Medtrinoc Pumpen 
+* alte Medtrinic Pumpen 
     522/722 - 554/754 (mit bestimmter Firmware)
 
 
