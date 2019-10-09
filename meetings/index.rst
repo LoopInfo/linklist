@@ -33,7 +33,7 @@ Karlsruhe/Bruchsal
 LooperInKarlsruhe Treffen zuletzt im September 2019
 
 
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Landessymbol_Freistaat_Bayern.svg/32px-Landessymbol_Freistaat_Bayern.svg.png
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Landessymbol_Freistaat_Bayern.svg/64px-Landessymbol_Freistaat_Bayern.svg.png
     :scale: 100 %
     :alt: Coat of arms of Thuringia
     :align: right
@@ -191,7 +191,7 @@ Sachsen-Anhalt
 Hier gibt es noch kein Treffen. Organisiert doch einfach eins!
 
 
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Landeswappen_Schleswig-Holstein.png/32px-Landeswappen_Schleswig-Holstein.png
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Landeswappen_Schleswig-Holstein.png/64px-Landeswappen_Schleswig-Holstein.png
     :scale: 100 %
     :alt: Coat of arms of Thuringia
     :align: right
@@ -210,7 +210,7 @@ Flensburg
 LooperInFlensburg Treffen zuletzt im Januar 2019
 
 
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coat_of_arms_of_Thuringia.svg/32px-Coat_of_arms_of_Thuringia.svg.png
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coat_of_arms_of_Thuringia.svg/64px-Coat_of_arms_of_Thuringia.svg.png
    :scale: 100 %
    :alt: Coat of arms of Thuringia
    :align: right
