@@ -12,8 +12,11 @@ blau        einmalig
 hellgrün    regelmäßig
 dunkelgrün  regelmäßin, jedich einmalig abweichender Termin
 
-Die Farben sind allerdings nur über den separaten Aufruf sichbar:
-https://calendar.google.com/calendar/embed?src=hi9i57h9uoc036tismkn5dd1vc%40group.calendar.google.com&ctz=Europe%2FBerlin
+iCAL zum Hinzufügen in die eigene Kalender App
+Hier sollten auch die Farben sichtbar sein.
+
+https://calendar.google.com/calendar/ical/hi9i57h9uoc036tismkn5dd1vc%40group.calendar.google.com/public/basic.ics
+
 
 .. raw:: html
    :file: calendar.html
