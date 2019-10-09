@@ -37,16 +37,16 @@ Sachsen
 
 Sachsen-Anhalt
 
-.. image:: https://upload.wikimedia.org/wikipedia/commons/7/7d/Landeswappen_Schleswig-Holstein.png
-   :scale: 30 %
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Landeswappen_Schleswig-Holstein.png/32px-Landeswappen_Schleswig-Holstein.png
+   :scale: 50 %
    :alt: Coat of arms of Thuringia
    :align: left
    :target: https://commons.wikimedia.org/wiki/File:Landeswappen_Schleswig-Holstein.png
 Schleswig-Holstein
 ----------------------
 
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coat_of_arms_of_Thuringia.svg/64px-Coat_of_arms_of_Thuringia.svg.png
-   :scale: 30 %
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coat_of_arms_of_Thuringia.svg/32px-Coat_of_arms_of_Thuringia.svg.png
+   :scale: 50 %
    :alt: Coat of arms of Thuringia
    :align: left
    :target: https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Thuringia.svg
