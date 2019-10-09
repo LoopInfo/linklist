@@ -34,10 +34,10 @@ LooperInKarlsruhe Treffen zuletzt im September 2019
 
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Landessymbol_Freistaat_Bayern.svg/32px-Landessymbol_Freistaat_Bayern.svg.png
-:scale: 100 %
-:alt: Coat of arms of Thuringia
-:align: right
-:target: https://commons.wikimedia.org/wiki/File:Landessymbol_Freistaat_Bayern.svg
+    :scale: 100 %
+    :alt: Coat of arms of Thuringia
+    :align: right
+    :target: https://commons.wikimedia.org/wiki/File:Landessymbol_Freistaat_Bayern.svg
 
 Bayern
 ----------------------
@@ -192,10 +192,10 @@ Hier gibt es noch kein Treffen. Organisiert doch einfach eins!
 
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Landeswappen_Schleswig-Holstein.png/32px-Landeswappen_Schleswig-Holstein.png
-:scale: 100 %
-:alt: Coat of arms of Thuringia
-:align: right
-:target: https://commons.wikimedia.org/wiki/File:Landeswappen_Schleswig-Holstein.png
+    :scale: 100 %
+    :alt: Coat of arms of Thuringia
+    :align: right
+    :target: https://commons.wikimedia.org/wiki/File:Landeswappen_Schleswig-Holstein.png
 
 Schleswig-Holstein
 ----------------------
