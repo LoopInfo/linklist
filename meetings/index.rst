@@ -48,11 +48,9 @@ Schleswig-Holstein
 
 
 .. topic:: Flensburg
-Flensburg
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Flensburg**
 LooperInFlensburg Treffen zuletzt im Januar 2019
 
-.. topic:: Lübeck
 Lübeck
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Lübecker Loop-Up zuletzt im August 2019.
