@@ -32,7 +32,7 @@ Wenn Dir zu Beginn das technische Know-how noch fehlt, wirst Du es am Ende haben
    
     Info (Was ist ein Loop)
     Loopertreffen   <./meetings/index>
-    Systeme         <./systems/index>
+    Loop Systeme         <./systems/index>
     Blogs           <./blogs/index>
     Videos          <./videos/index>
     Kontakt         <./contact.rst>
