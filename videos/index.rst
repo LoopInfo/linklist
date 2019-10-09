@@ -4,7 +4,9 @@ Videos
 Hier sollen Videos von Kongressen, etc aufgelistet werden.
 Aktuell sind wir noch bei der Recherche.
 
-**Mediathek Deutsche Diabetes Gesellschaft**
+Mediathek Deutsche Diabetes Gesellschaft
+============================================
+
 https://www.deutsche-diabetes-gesellschaft.de/mediathek
 
 Hier gibt es ein sehr informatives deutsches Video von Katharina Braune.
