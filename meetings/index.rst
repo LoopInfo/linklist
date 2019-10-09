@@ -47,14 +47,15 @@ Schleswig-Holstein
 ----------------------
 
 
-Lübeck
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Lübecker Loop-Up zuletzt im August 2019.
-Nächstes reguläres Event wahrscheinlich im Februar 2020
+.. topic:: Lübeck
+    Lübeck
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    Lübecker Loop-Up zuletzt im August 2019.
+    Nächstes reguläres Event wahrscheinlich im Februar 2020
 
-Flensburg
+.. topic:: Flensburg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-LooperInFlensburg Treffen zuletzt im Januar 2019
+    LooperInFlensburg Treffen zuletzt im Januar 2019
 
 
 
