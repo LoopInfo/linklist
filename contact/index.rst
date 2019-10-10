@@ -1,19 +1,23 @@
 Kontakt
 =============================
 
+
+**Email**
+
 mailto:loop.info@gmail.com
 
 **Wir sind auf eure Mithilfe angewiesen!**
+
 Bitte meldet uns:
+
 * fehlerhafte Links
 * neue Blogeinträge
 * sonstige Verbesserungsvorschläge
 
 
-Visitenkarte
-=================
+**Visitenkarte**
 
-.. image:: infocart.png
+.. image:: infocard.png
     :width: 100%
     :align: left
     :height: 100%
