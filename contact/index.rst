@@ -21,8 +21,6 @@ Diese Grafik dient als Vorlage für die Infocard.
 
 .. image:: infocard.png
     :name: orlage Infocard
-    :width: 100%
     :align: left
-    :height: 100%
     :alt: Vorlage Infocard
 
