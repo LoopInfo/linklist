@@ -35,4 +35,4 @@ Wenn Dir zu Beginn das technische Know-how noch fehlt, wirst Du es am Ende haben
     Loop Systeme         <./systems/index>
     Blogs           <./blogs/index>
     Videos          <./videos/index>
-    Kontakt         <./contact.rst>
+    Kontakt         <./contact/index>
