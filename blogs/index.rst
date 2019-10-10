@@ -13,6 +13,8 @@ Schwerpunkt Closed Loop
 * Artikelserie: Closed Loop von Martin
     http://zehn.be/
 
+* Lucky Loop im Raum Köln
+    http://luckyloop.koeln
 
 Blogs mit Beiträgen zum Closed Loop
 ***************************
@@ -27,5 +29,5 @@ Blogs mit Beiträgen zum Closed Loop
 
 * mein-diabeted-bblog.com
     Ein blog von Ilka und Finn
-    
+
     http://www.mein-diabetes-blog.com/?s=loop
