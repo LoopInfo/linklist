@@ -20,7 +20,7 @@ AndroidAPS hat derzeit die größte Anzahl an unterstützten Insulinpumpen.
 
 * SOIL DANA R / Dana RS
 * Akkucheck Combo / Insight
-* alte Medtrinic Pumpen (ab Version 2.4)
+* alte Medtronic Pumpen (ab Version 2.4)
     512/712 - 554/754 (mit bestimmter Firmware)
 
 Es verwendet den Algorithmus von openAPS.
